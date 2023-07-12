@@ -1,0 +1,17 @@
+.left-menu{
+    position: fixed;
+    background-color: rgb(75, 81, 134);
+    height:100%;
+    width:10%;
+    border: 1px;
+    border-color: black;
+    display : grid;
+    margin: 0 0;
+    padding: 0 0;
+}
+.right-menu{
+    border: 1px; 
+    background-color: red; 
+    height: 100%; 
+    width:90%;
+}
